@@ -1,6 +1,6 @@
 {
   "name": "@sandewisdom/constants-administrative-divisions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Constants in Sandewisdom projects about administrative divisions.",
   "main": "src/index.js",
   "scripts": {
