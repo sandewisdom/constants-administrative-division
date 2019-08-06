@@ -85209,7 +85209,7 @@ const data = [
                 communities: [
                   {
                     code: '441623101001',
-                    name: '会'
+                    name: '居委会'
                   },
                   {
                     code: '441623101201',
@@ -85445,7 +85445,7 @@ const data = [
                 communities: [
                   {
                     code: '441623107001',
-                    name: '会'
+                    name: '居委会'
                   },
                   {
                     code: '441623107201',
